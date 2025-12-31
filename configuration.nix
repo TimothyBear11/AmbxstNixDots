@@ -17,7 +17,7 @@
     experimental-features = [ "nix-command" "flakes" ];
   };
 
-  networking.hostName = "my-nix-den";
+  networking.hostName = "ambxst";
   networking.networkmanager.enable = true;
   services.printing.enable = true;
 
